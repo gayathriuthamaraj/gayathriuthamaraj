@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+### hi, I'm Gayathri 👋
 
-## Getting Started
+B.Tech CSE undergrad at **Amrita Vishwa Vidyapeetham**, Coimbatore.  
+I build backend systems and am actively learning my way through NLP, data pipelines, and ML infrastructure.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**what I'm into**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- backend engineering with Go & Python
+- distributed systems (Kafka, Docker, microservices)
+- NLP & language models — still exploring
+- data pipelines and ML lifecycle
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**currently**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- working on projects at the intersection of systems and ML
+- building things, breaking things, understanding why
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+**a few projects**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| project | what it is |
+|---|---|
+| [InDel](https://github.com/gayathriuthamaraj/InDel) | parametric income insurance platform — Go, Kafka, PostgreSQL, Docker |
+| [RKIVE](https://github.com/gayathriuthamaraj/RKIVE) | AI resume–JD matching pipeline using NER + LLM |
+| [Kuzhu](https://github.com/gayathriuthamaraj/Kuzhu) | secure community platform with RBAC and hybrid encryption |
+| [Gotham](https://github.com/gayathriuthamaraj/Gotham) | federated social network with ActivityPub-inspired cross-server design |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+**stack**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+`Go` · `Python` · `PostgreSQL` · `Kafka` · `Docker` · `Next.js` · `TypeScript`
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gayathriuthamaraj&show_icons=true&theme=dark&hide_border=true&bg_color=0d1a12&title_color=7A9B76&icon_color=7A9B76&text_color=D8CBB5)](https://github.com/gayathriuthamaraj)
+
+---
+
