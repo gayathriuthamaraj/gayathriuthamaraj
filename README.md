@@ -36,7 +36,3 @@ I build backend systems and am actively learning my way through NLP, data pipeli
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gayathriuthamaraj&show_icons=true&theme=dark&hide_border=true&bg_color=0d1a12&title_color=7A9B76&icon_color=7A9B76&text_color=D8CBB5)](https://github.com/gayathriuthamaraj)
-
----
-
