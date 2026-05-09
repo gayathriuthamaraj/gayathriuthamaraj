@@ -7,7 +7,7 @@
 *I build distributed systems, federated networks, and AI-powered pipelines.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gayathri%20Uthamaraj-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayathri-uthamaraj-011a0a306/)
-[![Email](https://img.shields.io/badge/Email-cb.sc.u4cse23026-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gayathriutham2905@gmail.com)
+[![Email](https://img.shields.io/badge/Email-gayathriuthamaraj-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gayathriutham2905@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=gayathriuthamaraj&color=blueviolet&style=flat&label=profile+views)](https://github.com/gayathriuthamaraj)
 
 </div>
