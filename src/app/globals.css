@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.bg-grid {
+  background-image: linear-gradient(to right, rgb(30 41 59 / 0.35) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(30 41 59 / 0.35) 1px, transparent 1px);
+  background-size: 36px 36px;
+}

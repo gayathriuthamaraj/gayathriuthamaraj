@@ -1,16 +1,17 @@
-## Hi there 👋
+# Gayathri U Portfolio
 
-<!--
-**gayathriuthamaraj/gayathriuthamaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A modern, dark-themed systems engineering portfolio built with **Next.js**, **React**, **TailwindCSS**, and **Framer Motion**.
 
-Here are some ideas to get you started:
+## Run locally
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+npm install
+npm run dev
+```
+
+## Build and lint
+
+```bash
+npm run lint
+npm run build
+```
