@@ -459,9 +459,9 @@ export const sidebarSections = [
     icon: "cpu",
     defaultOpen: false,
     items: [
-      { label: "Disruption Predictor", href: "#", icon: "activity", badge: "live" },
-      { label: "Resume Matcher (LLM)", href: "#", icon: "cpu", badge: "soon" },
-      { label: "Fern AutoML", href: "#", icon: "git-branch", badge: "wip" },
+      { label: "Disruption Predictor", href: "#indel", icon: "activity", badge: "live" },
+      { label: "Resume Matcher (LLM)", href: "#rkive", icon: "cpu", badge: "wip" },
+      { label: "Fern AutoML", href: "#fern", icon: "git-branch", badge: "wip" },
     ],
   },
   {
@@ -470,10 +470,10 @@ export const sidebarSections = [
     icon: "server",
     defaultOpen: false,
     items: [
-      { label: "InDel Topology", href: "#", icon: "layers" },
-      { label: "Gotham Node Map", href: "#", icon: "share-2" },
-      { label: "Monitoring / Grafana", href: "#", icon: "activity", badge: "soon" },
-      { label: "System Telemetry", href: "#", icon: "zap", badge: "soon" },
+      { label: "InDel Topology", href: "#infrastructure", icon: "layers" },
+      { label: "Gotham Node Map", href: "#gotham", icon: "share-2" },
+      { label: "InDel Live", href: "https://indel-portal.vercel.app/", icon: "external-link", external: true, badge: "live" },
+      { label: "Gotham Live", href: "https://federated-frontend-b.vercel.app/login", icon: "external-link", external: true, badge: "live" },
     ],
   },
   {
@@ -482,7 +482,7 @@ export const sidebarSections = [
     icon: "book-open",
     defaultOpen: false,
     items: [
-      { label: "Blockchain PM Paper", href: "#", icon: "book-open", badge: "Springer 2025" },
+      { label: "Blockchain PM Paper", href: "#research", icon: "book-open", badge: "live" },
     ],
   },
   {

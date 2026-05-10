@@ -3,6 +3,8 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
 import SectionReveal from "@/components/ui/SectionReveal";
+import DriftingLeaves from "@/components/ui/DriftingLeaves";
+import ButterflyAmbience from "@/components/ui/ButterflyAmbience";
 import { owner } from "@/lib/data";
 
 export default function Contact() {
@@ -17,6 +19,7 @@ export default function Contact() {
   return (
     <section id="contact" className="relative py-24 md:py-36">
       <div className="absolute inset-0 pointer-events-none">
+        {/* Ambient floor glow */}
         <div
           className="absolute bottom-0 left-1/2 -translate-x-1/2 w-[600px] h-[300px]"
           style={{
@@ -24,6 +27,10 @@ export default function Contact() {
               "radial-gradient(ellipse at 50% 100%, rgba(46,74,61,0.2) 0%, transparent 70%)",
           }}
         />
+        {/* Drifting leaves — atmospheric, low-opacity, cinematic */}
+        <DriftingLeaves />
+        {/* Translucent butterflies — ice-blue, margin-constrained, exploring mode only */}
+        <ButterflyAmbience />
       </div>
 
       <div className="section-container relative text-center">
