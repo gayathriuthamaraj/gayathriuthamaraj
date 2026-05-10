@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import Sidebar from "@/components/layout/Sidebar";
 import ScrollProgress from "@/components/layout/ScrollProgress";
+import ClientShell from "@/components/layout/ClientShell";
 
 export const metadata: Metadata = {
   title: "Gayathri U — Backend & Data Engineer · NLP · ML · Distributed Systems",
@@ -45,13 +46,16 @@ export default function RootLayout({
         />
       </head>
       <body className="bg-[#080f0a] text-beige antialiased noise-overlay">
-        <ScrollProgress />
-        <Sidebar />
-        {/* Main content offset for sidebar on desktop */}
-        <main className="xl:pl-[220px] transition-all duration-300">
-          {children}
-        </main>
+        <ClientShell>
+          <ScrollProgress />
+          <Sidebar />
+          {/* Main content offset for sidebar on desktop */}
+          <main className="xl:pl-[220px] transition-all duration-300">
+            {children}
+          </main>
+        </ClientShell>
       </body>
     </html>
   );
 }
+

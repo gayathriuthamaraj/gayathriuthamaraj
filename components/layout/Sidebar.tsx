@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { sidebarSections } from "@/lib/data";
 import { cn } from "@/lib/utils";
+import AtmosphereToggle from "@/components/ui/AtmosphereToggle";
 
 // ─── Icon Map ─────────────────────────────────────────────────────────────────
 function Icon({ name, size = 14 }: { name: string; size?: number }) {
@@ -399,9 +400,9 @@ export default function Sidebar() {
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               exit={{ opacity: 0 }}
-              className="px-3 py-3 border-t border-moss/20"
             >
-              <p className="text-[10px] font-mono text-beige-dark/40 text-center">
+              <AtmosphereToggle />
+              <p className="pb-2 text-[9px] font-mono text-beige-dark/25 text-center">
                 built with next.js
               </p>
             </motion.div>
